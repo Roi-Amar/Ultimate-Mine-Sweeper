@@ -1,0 +1,1 @@
+you have to install Java JVM/JRE in order to open the jar file and play the game
