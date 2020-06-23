@@ -5,12 +5,11 @@ Finale home assignment for OOP curse (Java)
 #    Mine Sweeper
 ----------------------
 This semester I took an OOP curse, (we learned Java as our main language for the OOP curse).
-At our finale home assignment we were introduced to javaFX and sceneBuilder, and asked to create a mine sweeper,
-Our lecturer told us that extra points will be given for extra style and features,
-I decided to "go big or go home" (or both, since we are all home due to covid-19).
+On our finale home assignment, we were introduced to javaFX and sceneBuilder and was asked to create a mine sweeper. Our lecturer told us that extra credit will be given for extra style and features.
+I decided to "Go big or go home" (or both, since we are all home due to covid-19).
 
 And so came to life the Ultimate Mine Sweeper,
-My first GUI related work, and its even embedded with original music piece i composed.
+My first GUI related work, and it is even embedded with an original music piece I composed myself.
 
 to play the game install java and download the jar file from "play the game" directory
 to import the code you can use the minesToDeploy.zip that contains all files
