@@ -16,7 +16,7 @@ to play the game install java and download the jar file from "play the game" dir
 to import the code you can use the minesToDeploy.zip that contains all files
 have fun!
 
-![Gameplay demo](demo/demo.gif)
+
 
 ```                      . . .                         
               \|/                          
