@@ -23,7 +23,7 @@ public class MinesFX extends Application {
 		Parent p = loader.getRoot(); 
 	    Scene scene = new Scene(p);
 	    primaryStage.setResizable(false);
-	    scene.setCursor(new ImageCursor(new Image(this.getClass().getResource("img/shovel2.png").toExternalForm())));
+	    scene.setCursor(new ImageCursor(new Image(this.getClass().getResource("shovel2.png").toExternalForm())));
 	    primaryStage.setScene(scene);
 	    primaryStage.setTitle("Mines Sweeper Ultimate");
 	    primaryStage.getIcons().add(new Image(this.getClass().getResource("minerLogo.png").toExternalForm()));
