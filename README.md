@@ -17,6 +17,7 @@ to import the code you can use the minesToDeploy.zip that contains all files
 have fun!
 
 ![Gameplay demo](demo/demo.gif)
+![Gameplay demo](demo/demo.mp4)
 
 ```                      . . .                         
               \|/                          
