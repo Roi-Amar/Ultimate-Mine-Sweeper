@@ -4,7 +4,7 @@ Finale home assignment for OOP curse (Java)
 ----------------------
     Mine Sweeper
 ----------------------
-
+"""
                       . . .                         
               \|/                          
              --+--                        
@@ -28,7 +28,7 @@ Finale home assignment for OOP curse (Java)
    \\#####################//               
      \\_###############_//                 
         \--..#####..--/
-
+"""
 ----------------------
       Extensions
 ----------------------
